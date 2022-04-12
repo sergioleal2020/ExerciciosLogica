@@ -9,7 +9,7 @@ public class media {
         nota2 = 7;  nota3 = 10;
 
 
-        calc_media = (nota1 + nota2 + nota3) / 2;
+        calc_media = (nota1 + nota2 + nota3) / 3;
 
         System.out.println("A media =" + calc_media);
 
