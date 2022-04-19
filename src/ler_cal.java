@@ -13,6 +13,8 @@ public class ler_cal {
         calc_media = (nota1 + nota2)/2;
 
         System.out.println("A media =" +calc_media);
+        JOptionPane.showMessageDialog(null,"a media = " +calc_media);
+
 
 
 
