@@ -21,6 +21,10 @@ public class tiposDados {
         System.out.println("Sua idade = " +idade);
         System.out.println("Seu salario = " +salario);
 
+        OptionPane.showInputDialog(null, "o nome ="+nome);
+        OptionPane.showInputDialog(null, "sua idade ="+idade);
+        OptionPane.showInputDialog(null, "O salario ="+salario);
+
 
 
 
