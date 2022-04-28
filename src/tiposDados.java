@@ -17,13 +17,13 @@ public class tiposDados {
         salario = Float.parseFloat(JOptionPane.showInputDialog("Digite o salario"));
 
 
-        System.out.println("O nome = " +nome);
-        System.out.println("Sua idade = " +idade);
-        System.out.println("Seu salario = " +salario);
+        //System.out.println("O nome = " +nome);
+        //System.out.println("Sua idade = " +idade);
+        //System.out.println("Seu salario = " +salario);
 
-        OptionPane.showInputDialog(null, "o nome ="+nome);
-        OptionPane.showInputDialog(null, "sua idade ="+idade);
-        OptionPane.showInputDialog(null, "O salario ="+salario);
+        JOptionPane.showInputDialog(null, "o nome ="+nome);
+        JOptionPane.showInputDialog(null, "sua idade ="+idade);
+        JOptionPane.showInputDialog(null, "O salario ="+salario);
 
 
 
