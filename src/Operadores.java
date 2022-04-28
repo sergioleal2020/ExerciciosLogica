@@ -9,9 +9,10 @@ public class  Operadores {
         {
 
             float num1, num2, soma, divisao, multiplicacao, subtracao;
-            num1 = 10;
-            num2 = 5;
-
+           // num1 = 10;
+           // num2 = 5;
+           num1 = Float.parseFloat(JOptionPane.showInputDialog("Digite  o numero 1:"));
+            num2 = Float.parseFloat(JOptionPane.showInputDialog("Digite  o numero 2:"));
             soma = num1 + num2;
             divisao = num1 / num2;
             subtracao = num1 - num2;
