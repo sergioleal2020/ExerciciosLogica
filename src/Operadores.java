@@ -20,7 +20,11 @@ public class  Operadores {
 
 
 
-            JOptionPane.showMessageDialog(null, "soma e =" + soma);
+            JOptionPane.showMessageDialog(null, "soma e =" + soma+ " \nA divisao = " +divisao+
+                    "\n multiplicacao = "+multiplicacao+"\nA subtracao = "+subtracao);
+
+
+
             JOptionPane.showMessageDialog(null, "divisão e =" + divisao);
             JOptionPane.showMessageDialog(null, "subtracao e =" + subtracao);
             JOptionPane.showMessageDialog(null, "multiplicação e =" + multiplicacao);
