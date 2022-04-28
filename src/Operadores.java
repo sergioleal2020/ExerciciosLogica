@@ -25,9 +25,9 @@ public class  Operadores {
 
 
 
-            JOptionPane.showMessageDialog(null, "divisão e =" + divisao);
-            JOptionPane.showMessageDialog(null, "subtracao e =" + subtracao);
-            JOptionPane.showMessageDialog(null, "multiplicação e =" + multiplicacao);
+            //JOptionPane.showMessageDialog(null, "divisão e =" + divisao);
+            //JOptionPane.showMessageDialog(null, "subtracao e =" + subtracao);
+            //sJOptionPane.showMessageDialog(null, "multiplicação e =" + multiplicacao);
 
 
         }
