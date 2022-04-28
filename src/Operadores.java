@@ -14,8 +14,9 @@ public class  Operadores {
 
             soma = num1 + num2;
             divisao = num1 / num2;
-            subtracao = num1 - num2;
             multiplicacao = num1 * num2;
+            subtracao = num1 - num2;
+
 
             JOptionPane.showMessageDialog(null, "soma e =" + soma);
             JOptionPane.showMessageDialog(null, "divisão e =" + divisao);
