@@ -9,14 +9,16 @@ public class trocaValores {
         A= 5;
         B =10;
 
-        JOptionPane.showMessageDialog(null,"A = "+A+"  e B= "+B);
-                Auxiliar = A;
+        JOptionPane.showMessageDialog(null,"antes da troca : \nA = "+A+"  e \nB = "+B);
+        Auxiliar = A;
         A  =B;
         B =Auxiliar;
 
-
+        JOptionPane.showMessageDialog(null,"DEPOIS DA troca : \nA = "+A+"  e \nB = "+B);
 
     }
 
 
 }
+
+
