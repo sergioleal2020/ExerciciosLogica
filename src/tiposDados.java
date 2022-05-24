@@ -5,14 +5,14 @@ public class tiposDados {
     {
         float salario;
         int idade;
-        String nome;
+        String nomee;
         //salario = 2000;
         //idade = 18;
         //nome = "Neri Neitzke";
 
 
 
-        nome=JOptionPane.showInputDialog("Digite o nome");
+        nomee=JOptionPane.showInputDialog("Digite o nome");
         idade= Integer.parseInt(JOptionPane.showInputDialog("Digite a idade"));
         salario = Float.parseFloat(JOptionPane.showInputDialog("Digite o salario"));
 
