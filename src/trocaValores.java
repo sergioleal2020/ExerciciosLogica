@@ -6,8 +6,8 @@ public class trocaValores {
     {
 
         int A, B, Auxiliar;
-        A= 5;
-        B =10;
+        A= 10;
+        B =20;
 
         JOptionPane.showMessageDialog(null,"antes da troca : \nA = "+A+"  e \nB = "+B);
         Auxiliar = A;
